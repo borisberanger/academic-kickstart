@@ -3,11 +3,11 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Awards"
+title = "Grants"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 35
+weight = 40
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,12 +20,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "J.B Douglas Award"
-  organization = "Statistical Society of Australia, New South Wales Branch"
+  title = "Research Support Scheme (RSS)"
+  organization = "ARC Centre of Excellence for Mathematical and Statistical Frontiers"
   certificate_url = ""
-  date_start = "2014-11-01"
+  date_start = "2018-02-01"
   date_end = ""
-  description = "Excellence in postgraduate research"
-
+  description = "Received $7,600 to setup a collaboration with Alec Stepehenson (CSIRO, Data61)"
 
 +++
