@@ -1,62 +1,75 @@
 +++
 # Display name
-name = "Nelson Bighetti"
-
-# Username (this should match the folder name)
-authors = ["admin"]
+name = "Boris Beranger"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Research Associate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of New South Wales", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include extreme value theory (EVT) and symbolic data analysis (SDA)"
+
+# Picture
+avatar = "portrait.jpg"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "b.beranger@unsw.edu.au"
+
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Extreme Value Theory",
+  "Environmental Extremes",
+  "Symbolic Data Analysis"
 ]
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
-
+responsibilities = [
+"Organizer of the [UNSW Statistics Seminar Series](/unswseminar/)  ",
+"Treasurer of the [Statistical Society of Australia, NSW Branch](https://www.statsoc.org.au/New-South-Wales)"
+] 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Statistics"
+  institution = "University Pierre and Marie Curie (Paris 6) and University of New South Wales"
+  year = 2016
+
+[[education.courses]]
+  course = "Masters of Statistics"
+  institution = "University Pierre and Marie Curie (Paris 6)"
   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+# List activities
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#
+# Icon pack "fab" includes the following social network icons:
+#
+#   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+#   youtube, instagram, soundcloud
+#
+#   For email icon, use "fas" icon pack, "envelope" icon, and
+#   "mailto:your@email.com" as the link.
+#
+#   Full list: https://fontawesome.com/icons
+#
+# Icon pack "ai" includes the following academic icons:
+#
+#   cv, google-scholar, arxiv, orcid, researchgate, mendeley
+#
+#   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:b.beranger@unsw.edu.au"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
@@ -66,12 +79,17 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com.au/citations?user=JXBYulwAAAAJ&hl=en&oi=ao"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/borisberanger"
+  
+  [[social]]
+  icon = "arxiv"
+  icon_pack = "ai"
+  link = "https://arxiv.org/search/?searchtype=author&query=Beranger%2C+B"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +100,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi! I'm a Research Associate at the [School of Mathematics and Statistics, UNSW Sydney](https://www.maths.unsw.edu.au) under the supervision of [Prof. Scott Sisson](https://web.maths.unsw.edu.au/~scott/Welcome.html) and an Associate Investigator in the [ARC Centre of Excellence of Mathematical and Statistical Frontiers (ACEMS)](https://acems.org.au)
