@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Reserach Associate"
+  title = "Research Associate"
   company = "UNSW Sydney"
   company_url = ""
   location = "Sydney, Australia"
@@ -35,11 +35,11 @@ date_format = "January 2006"
 
 [[experience]]
   title = "PhD Student"
-  company = "University Piere and Marie Curie, Paris 6 \n UNSW Sydney"
+  company = "University Pierre and Marie Curie, Paris 6 \n UNSW Sydney"
   company_url = ""
   location = "Paris / Sydney"
   date_start = "2012-02-01"
   date_end = "2016-01-31"
-  description = """PhD (cotuelle) supervised by Prof. Michel Broniatowski and Prof Scott Sisson. Co-supervised by Dr. Simone Padoan"""
+  description = """PhD (cotuelle) supervised by [Prof. Michel Broniatowski](http://www.lsta.upmc.fr/Broniatowski/) and [Prof Scott Sisson](https://web.maths.unsw.edu.au/~scott/). Co-supervised by [Dr. Simone Padoan](http://didattica.unibocconi.eu/mypage/index.php?IdUte=154276&lingua=eng)"""
 
 +++
