@@ -32,4 +32,4 @@ weight = 30
 
 - Past
 
-- Yangfan (Fiona) Xu [Master], *On the extremes of extended skew-normal random variables*, Semester 2, 2017. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
+ - Yangfan (Fiona) Xu [Master], *On the extremes of extended skew-normal random variables*, Semester 2, 2017. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
