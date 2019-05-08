@@ -74,7 +74,7 @@ responsibilities = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/BorisBeranger"
 
 [[social]]
   icon = "google-scholar"
