@@ -100,4 +100,4 @@ responsibilities = [
 
 +++
 
-Hi! I'm a Research Associate at the [School of Mathematics and Statistics, UNSW Sydney](https://www.maths.unsw.edu.au) under the supervision of [Prof. Scott Sisson](https://web.maths.unsw.edu.au/~scott/Welcome.html) and an Associate Investigator in the [ARC Centre of Excellence of Mathematical and Statistical Frontiers (ACEMS)](https://acems.org.au)
+Hi! I'm a Research Associate and part-time Lecturer at the [School of Mathematics and Statistics, UNSW Sydney](https://www.maths.unsw.edu.au) under the supervision of [Prof. Scott Sisson](https://web.maths.unsw.edu.au/~scott/Welcome.html) and an Associate Investigator in the [ARC Centre of Excellence of Mathematical and Statistical Frontiers (ACEMS)](https://acems.org.au)

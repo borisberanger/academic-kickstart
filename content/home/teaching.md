@@ -15,13 +15,13 @@ weight = 20
 
 +++
 
-Lectures:
+Taught courses:
 
-- [Statistical Analysis of Dependent Data - MATH3841](http://legacy.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3841.html) 
-- [Introduction to Statistics and Statistical Computations - MATH5856](https://www.handbook.unsw.edu.au/postgraduate/courses/2019/math5856/) 
+- [Statistical Analysis of Dependent Data - MATH3841, UNSW, 2018](http://legacy.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3841.html) 
+- [Introduction to Statistics and Statistical Computations - MATH5856, UNSW, 2019](https://www.handbook.unsw.edu.au/postgraduate/courses/2019/math5856/) 
 
 Tutorials:
 
-- [Advanced Topics in Statistical Machine Learning](http://legacy.handbook.unsw.edu.au/postgraduate/courses/2017/COMP9418.html) 
-- [Statistics for Life and Social Sciences](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1041/)
-- [Mathematics 1A, Calculus](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1131/?q=MATH1131&ct=all)
+- [Advanced Topics in Statistical Machine Learning, UNSW, 2017](http://legacy.handbook.unsw.edu.au/postgraduate/courses/2017/COMP9418.html) 
+- [Mathematics 1A, Calculus, UNSW, 2017](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1131/?q=MATH1131&ct=all)
+- [Statistics for Life and Social Sciences, UNSW, 2015](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1041/)
