@@ -18,7 +18,7 @@ authors = ["B. Beranger", "S.A. Padoan", "S.A. Sisson"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Scandinavian Journal of Statistics*."
+publication = "In *Scandinavian Journal of Statistics*"
 # publication_short = "In *SJOS*"
 
 # Abstract and optional shortened version.
