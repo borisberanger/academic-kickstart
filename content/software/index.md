@@ -37,15 +37,14 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Program for Term 2, 2019"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-The UNSW Statistics Seminar Series are usually held on Fridays at 4pm during the teaching period. The program for the current term is given in the flyer below. Please visit the [School of Mathematics and Statistics webpage](https://www.maths.unsw.edu.au/seminars?term_node_tid_depth_3=205) closer to the seminar date to access the location details and topic. 
+I am the maintainer of the R package ExtremalDep
 
 #![Example image](image.jpg)
 
-#The program of Term 1, 2019 can be found [here](/pdf/Stats_Seminar_flyer-Term 1-2019.pdf).
