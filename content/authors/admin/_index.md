@@ -31,7 +31,8 @@ interests = [
 
 responsibilities = [
 "Organizer of the [UNSW Statistics Seminar Series](/unswseminar/)  ",
-"Treasurer of the [Statistical Society of Australia, NSW Branch](https://www.statsoc.org.au/New-South-Wales)"
+"Treasurer of the [Statistical Society of Australia, NSW Branch](https://www.statsoc.org.au/New-South-Wales)",
+"Maintainer of the R package [ExtremalDep](/software/)  "
 ] 
 # List qualifications (such as academic degrees)
 [[education.courses]]
