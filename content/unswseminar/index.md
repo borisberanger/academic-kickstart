@@ -48,4 +48,5 @@ The UNSW Statistics Seminar Series are usually held on Fridays at 4pm during the
 
 ![Example image](image.jpg)
 
-The program of Term 1, 2019 can be found [here](/pdf/Stats_Seminar_flyer-Term 1-2019.pdf).
+The program of Term 1, 2019 can be found [here](/pdf/Stats_Seminar_flyer-Term_1-2019.pdf).
+The program of Term 2, 2019 can be found [here](/pdf/Stats_Seminar_flyer-Term_2-2019.pdf).
