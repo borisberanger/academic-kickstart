@@ -25,6 +25,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-02-01"
   date_end = ""
-  description = "Received $7,600 to setup a collaboration with Alec Stepehenson (CSIRO, Data61)"
+  description = "Received $7,600 to setup a collaboration with Alec Stephenson (CSIRO, Data61)"
 
 +++
