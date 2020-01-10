@@ -1,6 +1,7 @@
 +++
 title = "Estimation and uncertainty quantification for extreme quantile regions"
-date = 2019-04-01T00:00:00
+date = 2019-02-01T00:00:00 
+# 2019-04-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +19,7 @@ authors = ["B. Beranger", "S.A. Padoan", "S.A. Sisson"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "In *Extremes*"
 # publication_short = ""
 
 # Abstract and optional shortened version.

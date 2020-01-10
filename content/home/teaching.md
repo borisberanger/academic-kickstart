@@ -17,8 +17,8 @@ weight = 20
 
 Taught courses:
 
-- [Statistical Analysis of Dependent Data - MATH3841, UNSW, 2018](http://legacy.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3841.html) 
 - [Introduction to Statistics and Statistical Computations - MATH5856, UNSW, 2019](https://www.handbook.unsw.edu.au/postgraduate/courses/2019/math5856/) 
+- [Statistical Analysis of Dependent Data - MATH3841, UNSW, 2018](http://legacy.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3841.html) 
 
 Tutorials:
 
