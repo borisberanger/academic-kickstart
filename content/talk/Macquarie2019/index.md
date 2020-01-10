@@ -1,6 +1,6 @@
 +++
 title = "Advances in the analysis of aggregated data"
-date = 2019-02-22T14:00:00  # Schedule page publish date.
+date = 2019-10-22T14:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
