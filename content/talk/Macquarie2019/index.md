@@ -13,7 +13,7 @@ all_day = false
 authors = ["B. Beranger"]
 
 # Abstract and optional shortened version.
-abstract = "The ever increasing speed at which technological innovations appear in our day to day life has led to a data-centric era. Huge amounts of data are continuously collected, requiring appropriate storage capabilities and efficient tools for statistical analysis. Symbolic data analysis (SDA) is an emerging area of statistics based on aggregating individual level data into group-based distributional summaries ({\em symbols}), and then developing statistical methods to analyse them. However, existing SDA techniques are either non-inferential, do not easily permit meaningful statistical models, are unable to distinguish between competing models, and are based on simplifying assumptions that are known to be false. This talk introduces a new general method for constructing likelihood functions for symbolic data based on a desired probability model for the underlying classical data, while only observing the distributional summaries. This approach resolves many of the conceptual and practical issues with current SDA methods, opens the door for new classes of symbol design and construction, in addition to developing SDA as a viable tool to enable and improve upon classical data analyses, particularly for very large and complex datasets. The usefulness of the proposed methodology is first demonstrated in the context of spatial extremes modelling and then for classification problems."
+abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
