@@ -6,7 +6,7 @@ name = "Boris Beranger"
 superuser = true
 
 # Role/position
-role = "Research Associate"
+role = "Lecturer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -32,7 +32,8 @@ interests = [
 responsibilities = [
 "Organizer of the [UNSW Statistics Seminar Series](/unswseminar/)  ",
 "Treasurer of the [Statistical Society of Australia, NSW Branch](https://www.statsoc.org.au/New-South-Wales)",
-"Author of the R package [ExtremalDep](/software/)  "
+"Author of the R package [ExtremalDep](/software/)  ",
+"Contributor of the R package [CompRandFld](https://cran.r-project.org/web/packages/CompRandFld/index.html)"
 ] 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -101,4 +102,4 @@ responsibilities = [
 
 +++
 
-Hi! I'm a Research Associate and Lecturer (part-time) at the [School of Mathematics and Statistics, UNSW Sydney](https://www.maths.unsw.edu.au) under the supervision of [Prof. Scott Sisson](https://web.maths.unsw.edu.au/~scott/Welcome.html) and an Associate Investigator in the [ARC Centre of Excellence of Mathematical and Statistical Frontiers (ACEMS)](https://acems.org.au)
+Hi! I'm a  Lecturer at the [School of Mathematics and Statistics, UNSW Sydney](https://www.maths.unsw.edu.au) under the supervision of [Prof. Scott Sisson](https://web.maths.unsw.edu.au/~scott/Welcome.html) and an Associate Investigator in the [ARC Centre of Excellence of Mathematical and Statistical Frontiers (ACEMS)](https://acems.org.au)
