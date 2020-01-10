@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-title = "[Outreach Participation Award](/pdf/Outreach_participation_award)"
+title = "[Outreach Participation Award](/pdf/Outreach_participation_award.pdf)"
 organization = "ARC Centre of Excellence for Mathematical and Statistical Frontiers"
 certificate_url = ""
 date_start = "2019-11-01"
