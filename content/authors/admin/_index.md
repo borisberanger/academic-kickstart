@@ -32,7 +32,7 @@ interests = [
 responsibilities = [
 "Organizer of the [UNSW Statistics Seminar Series](/unswseminar/)  ",
 "Treasurer of the [Statistical Society of Australia, NSW Branch](https://www.statsoc.org.au/New-South-Wales)",
-"Author of the R package [ExtremalDep](/software/)  ",
+"Author of the R package [ExtremalDep](/software/)  and [CompRandFld](https://cran.r-project.org/web/packages/CompRandFld/index.html)",
 "Contributor of the R package [CompRandFld](https://cran.r-project.org/web/packages/CompRandFld/index.html)"
 ] 
 # List qualifications (such as academic degrees)
