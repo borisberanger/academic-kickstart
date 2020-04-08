@@ -1,6 +1,6 @@
 +++
 title = "Estimation and uncertainty quantification for extreme quantile regions"
-date = 2019-02-01T00:00:00 
+date = 2020-02-01T00:00:00 
 # 2019-04-01
 draft = false
 
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "coming soon"
+doi = "10.1007/s10687-019-00364-0"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
