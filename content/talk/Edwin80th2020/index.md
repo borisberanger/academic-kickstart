@@ -1,6 +1,6 @@
 +++
 title = "Estimating Equations for Data Summaries"
-date = 2020-06-03T14:00:00  # Schedule page publish date.
+date = 2020-03-06T14:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
