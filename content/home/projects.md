@@ -1,6 +1,6 @@
 +++
 # Projects widget.
-widget = "projects"
+widget = "accomplishments"
 active = true
 # date = 2016-04-20T00:00:00
 
@@ -40,7 +40,7 @@ weight = 50
 title = "Reducing Indigenous contact with the court system"
 organization = "Bureau of Crime Statistics and Rsearch, NSW Department of Justice"
 certificate_url = ""
-date_start = "2010"
+date_start = "2010-05-01"
 date_end = ""
 description = "3 Months internship project - Supervised by Dr Don Weatherburn (BOCSAR)"
 
@@ -48,7 +48,7 @@ description = "3 Months internship project - Supervised by Dr Don Weatherburn (B
 title = "SIGMA Project: Modelling of the reliability of cast iron gas pipes in Paris region"
 organization = "GDF-Suez Research and Innovation"
 certificate_url = ""
-date_start = "2011"
+date_start = "2011-04-01"
 date_end = ""
 description = "6 Months internship project - Supervised by Frederic Cossalter-Rufie (GDF-Suez) and Prof. Michel Broniatowski (UPMC)."
 
