@@ -37,7 +37,7 @@ weight = 50
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[item]]
-title = "Reducing Indigenous contact with the court system"
+title = "[Reducing Indigenous contact with the court system]{/pdf/bb54.pdf}"
 organization = "Bureau of Crime Statistics and Rsearch, NSW Department of Justice"
 certificate_url = ""
 date_start = "2010-05-01"
@@ -53,4 +53,5 @@ date_end = ""
 description = "6 Months internship project - Supervised by Frederic Cossalter-Rufie (GDF-Suez) and Prof. Michel Broniatowski (UPMC)."
 
 +++
+
 
