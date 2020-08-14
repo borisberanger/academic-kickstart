@@ -1,6 +1,6 @@
 +++
 title = "Composite likelihood and logistic regression models for aggregated data"
-date = 2020-08-14T14:00:00  # Schedule page publish date.
+date = 2020-08-14T13:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
