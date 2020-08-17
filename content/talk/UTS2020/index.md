@@ -65,4 +65,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-
+ 
+ Recording of the seminar:
+ 
+ {{<youtube Lg-l5f1gUkc&list=PLHjOMouVJ7UU0twTM2O_I5URNlTxUYUCm&index=11 >}}
