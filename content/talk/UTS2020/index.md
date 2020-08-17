@@ -68,4 +68,4 @@ math = true
  
  Recording of the seminar:
  
- {{<youtube Lg-l5f1gUkc&list=PLHjOMouVJ7UU0twTM2O_I5URNlTxUYUCm&index=11 >}}
+ {{<youtube Lg-l5f1gUkc >}}
