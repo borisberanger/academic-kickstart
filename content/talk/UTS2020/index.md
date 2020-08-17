@@ -49,7 +49,7 @@ slides = "BB_UTS.pdf"
 # Links (optional).
 url_pdf = "pdf/BB_UTS.pdf"
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=Lg-l5f1gUkc&list=PLHjOMouVJ7UU0twTM2O_I5URNlTxUYUCm&index=11"
 url_code = ""
 
 # Does the content use math formatting?
