@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/pdf/1912.03805.pdf"
-url_code = ""
+url_code = "/zip/WBS_2020.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""
