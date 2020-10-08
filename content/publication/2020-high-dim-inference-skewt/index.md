@@ -1,6 +1,6 @@
 +++
 title = "High-dimensional inference using the extremal skew-t process"
-date = 2019-07-01T00:00:00
+date = 2020-04-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["B. Beranger", "A.G. Stephenson ", "S.A. Sisson"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "In *Extremes*"
 # publication_short = ""
 
 # Abstract and optional shortened version.
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "coming soon"
+doi = "https://doi.org/10.1007/s10687-020-00376-1"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

@@ -1,10 +1,10 @@
 +++
-title = "Composite likelihood methods for histogram-valued random variables"
-date = 2019-08-01T00:00:00
+title = "Likelihood-based inference for modelling packet transit from thinned flow summaries"
+date = 2020-08-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["T. Whitaker", "B. Beranger", "S.A. Sisson"]
+authors = ["Prosha A. Rahman", "B. Beranger", "M. Roughan","S.A. Sisson"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,8 @@ publication = "Submitted"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Symbolic data analysis has been proposed as a technique for summarising large and complex datasets into a much smaller and tractable number of distributions -- such as random rectangles or histograms -- each describing a portion of the larger dataset. Recent work has developed likelihood-based methods that permit fitting models for the underlying data while only observing the distributional summaries. However, while powerful, when working with random histograms this approach  rapidly becomes computationally intractable as the dimension of the underlying data increases. We introduce a composite-likelihood variation of this likelihood-based approach for the analysis of random histograms in $K$ dimensions, through the construction of lower-dimensional marginal histograms. The performance of this approach is examined through simulated and real data analysis of max-stable models for spatial extremes using millions of observed datapoints in more than $K=100$ dimensions. Large  computational savings are available compared to existing model fitting approaches."
+abstract = "The substantial growth of network traffic speed and volume presents practical challenges to network data analysis. Packet thinning and flow aggregation protocols such as NetFlow reduce the size of datasets by providing structured data summaries, but conversely this impedes statistical inference.  Methods which aim to model patterns of traffic propagation typically do not account for the packet thinning and summarisation process into the analysis, and are often simplistic, e.g.~method-of-moments. As a result, they can be of limited practical use. We introduce a likelihood-based analysis which fully incorporates packet thinning and NetFlow summarisation into the analysis. As a result, inferences can be made for models on the level of individual packets while only observing thinned flow summary information. We establish consistency of the resulting maximum likelihood estimator, derive bounds on the volume of traffic which should be observed to achieve required levels of estimator accuracy, and identify an ideal family of models. The robust performance of the estimator is examined through simulated analyses and an application on a publicly available trace dataset containing over 36m packets over a 1 minute period."
+
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -50,7 +51,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/1908.11548.pdf"
+url_preprint = "https://arxiv.org/pdf/2008.13424.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -64,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "coming soon"
+doi = "Coming soon"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
