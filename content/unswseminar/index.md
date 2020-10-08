@@ -46,7 +46,7 @@ url_code = ""
 
 The UNSW Statistics Seminar Series are usually held on Fridays at 4pm during the teaching period. The program for the current term is given in the flyer below. Please visit the [School of Mathematics and Statistics webpage](https://www.maths.unsw.edu.au/seminars?term_node_tid_depth_3=205) closer to the seminar date to access the location details and topic. 
 
-<span style="color:red">some *This is Blue italic.* text</span>
+<span style="color:red"> During COVID-19, online seminars are announced via the [Statistics Across Campuses blog](https://ssaassl.blogspot.com) text</span>.
 
 ![Example image](image.jpg)
 
