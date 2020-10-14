@@ -29,7 +29,7 @@ weight = 30
 
 - Current
 
- - Yijia Ma [Masters, UNSW], 2020. 
+ - Yujia He [Masters, UNSW], 2020. 
 
 
 - Past
