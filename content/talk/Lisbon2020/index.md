@@ -1,6 +1,6 @@
 +++
 title = "High-dimensional inference for max-stable processes"
-# date = 2020-10-15T20:00:00  # Schedule page publish date.
+date = 2020-10-14T13:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
