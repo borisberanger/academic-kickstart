@@ -49,7 +49,7 @@ slides = "BB_UTS.pdf"
 # Links (optional).
 url_pdf = "pdf/BB_Lisbon.pdf"
 url_slides = ""
-url_video = ""
+url_video = "https://educast.fccn.pt/vod/clips/1tmesix2qh/streaming.html?locale=pt"
 url_code = ""
 
 # Does the content use math formatting?
