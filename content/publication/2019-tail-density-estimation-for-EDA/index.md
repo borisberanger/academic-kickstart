@@ -42,7 +42,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/pdf/1602.08807.pdf"
-url_code = "/zip/BLS.zip"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
