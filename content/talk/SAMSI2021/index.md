@@ -1,6 +1,6 @@
 +++
 title = "Fitting models to underlying data using aggregates"
-date = 2021-04-19T13:00:00  # Schedule page publish date.
+date = 2021-04-19T07:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
