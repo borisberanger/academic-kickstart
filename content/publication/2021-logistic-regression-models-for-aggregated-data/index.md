@@ -18,7 +18,7 @@ authors = ["T. Whitaker", "B. Beranger", "S.A. Sisson"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Computational and Graphical Statistics"
+publication = "In *Journal of Computational and Graphical Statistics*"
 # publication_short = ""
 
 # Abstract and optional shortened version.
