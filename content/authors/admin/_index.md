@@ -26,6 +26,7 @@ email = "b.beranger@unsw.edu.au"
 interests = [
   "Extreme Value Theory",
   "Environmental Extremes",
+  "Big and complex data",
   "Symbolic Data Analysis"
 ]
 
