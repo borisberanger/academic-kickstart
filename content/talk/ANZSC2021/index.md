@@ -22,7 +22,7 @@ event = "ANZSC2021"
 event_url = "https://anzsc2021.com.au/conference-program/"
 
 # Location of event.
-location = "Online (Gold COast, Australia)"
+location = "Online (Gold Coast, Australia)"
 
 # Is this a featured talk? (true/false)
 featured = false

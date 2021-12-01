@@ -21,7 +21,7 @@ event = "University of Technology Sydney, Mathematics Colloquium"
 event_url = "https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences/seminars-and-colloquia"
 
 # Location of event.
-location = "Sydney, Australia"
+location = "Online (Sydney, Australia)"
 
 # Is this a featured talk? (true/false)
 featured = false
