@@ -19,22 +19,31 @@ weight = 30
 
 - Current
 
- - Prosha Rahman [UNSW], Jun 2019. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
+ - Prosha Rahman, 2019 - ?. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
+ - Ahmad Hakiim Jamaluddin, 2021 - ?. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
 
 - Completed
 
- - Thomas Whitaker [UNSW], Feb 2016 - March 2020. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
+ - Thomas Whitaker, 2016 - 2020. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
 
 **Master/Honours students:**
 
 - Current
 
- - Yujia He [Masters, UNSW], 2020. 
+ - Chuqin Zhou [Masters], 2021-22. 
+ - Jiasheng Huang [Honours], 2021-22.
+ - Haoyang Wang [Honours], 2021-22.
+ - Jaydon Miranda [Honours], 2022.
+ - Jianing (Chris) Gu [Masters], 2022.
 
 
 - Past
 
- - Max Fisher [Honours, UNSW], 2019. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
- - Lewis Wright [Honours, UNSW], 2019. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
- - Bowen Wang [Master, UNSW], 2019. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
- - Yangfan (Fiona) Xu [Master, UNSW], *On the extremes of extended skew-normal random variables*, Semester 2, 2017. Jointly supervised with [Scott Sisson](https://web.maths.unsw.edu.au/~scott/).
+ - Jingyi Yang [Masters], 2021.
+ - Xin (Joy) Lin [Masters], 2021.
+ - Weidi Wang [Masters], 2021.
+ - Yujia He [Masters], 2020-21.
+ - Max Fisher [Honours], 2019. 
+ - Lewis Wright [Honours], 2019. 
+ - Bowen Wang [Master], 2019. 
+ - Yangfan (Fiona) Xu [Master], 2017.
