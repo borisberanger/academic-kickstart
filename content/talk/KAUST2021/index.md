@@ -21,7 +21,7 @@ event = "King Abdullah University of Science and Technology"
 event_url = "https://cemse.kaust.edu.sa/events/event/high-dimensional-inference-max-stable-processes"
 
 # Location of event.
-location = "Saudi Arabia"
+location = "Online (Saudi Arabia)"
 
 # Is this a featured talk? (true/false)
 featured = false

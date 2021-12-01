@@ -21,7 +21,7 @@ event = "University of Lisbon, Portugal, Extremes Webinar"
 event_url = "https://extremes.research.ulisboa.pt"
 
 # Location of event.
-location = "Lisbon, Portugal"
+location = "Online (Lisbon, Portugal)"
 
 # Is this a featured talk? (true/false)
 featured = false

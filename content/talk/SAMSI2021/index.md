@@ -21,7 +21,7 @@ event = "The Statistical and Applied Mathematical Science Institute (SAMSI), Pro
 event_url = "https://www.samsi.info/programs-and-activities/semester-long-programs/program-on-combinatorial-probability/"
 
 # Location of event.
-location = "United States of America"
+location = "Online (USA)"
 
 # Is this a featured talk? (true/false)
 featured = false

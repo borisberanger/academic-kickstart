@@ -1,6 +1,6 @@
 +++
 title = "Estimation and uncertainty quantification for extreme quantile regions"
-date = 2021-07-05T13:45:00  # Schedule page publish date.
+date = 2020-12-19T17:15:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -18,11 +18,11 @@ abstract = "Extreme quantile regions are spaces in which future extreme events c
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "ANZSC2021"
-event_url = "https://anzsc2021.com.au/conference-program/"
+event = "CMStatistics2020"
+event_url = "http://www.cmstatistics.org/CMStatistics2020/"
 
 # Location of event.
-location = "Online (Gold COast, Australia)"
+location = "Online (London, UK)"
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -48,7 +48,7 @@ tags = []
 slides = "CMStatistics2018_BB.pdf"
 
 # Links (optional).
-url_pdf = "pdf/ANZSC2021_BB_short.pdf"
+url_pdf = "pdf/CMStatistics2020_BB.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -67,4 +67,4 @@ math = true
   focal_point = "Right"
 +++
 
-Invited talk in the session *Multivariate Extremes*, organised by Prof. M. Flak. Other presenters: C. Klueppelberg, A. Janssen, J. Segers.
+Invited talk in the session *Estimation methods for extreme events*, organised by Dr Simone Padoan. Other presenters: I. Antoniano Villalobos, G. Stupfler and S. Rizzelli.

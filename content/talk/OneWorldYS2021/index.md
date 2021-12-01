@@ -21,7 +21,7 @@ event = "One World seminar - YoungStatS"
 event_url = "https://youngstats.github.io/post/2021/09/30/advancements-in-symbolic-data-analysis/"
 
 # Location of event.
-location = "Online"
+location = "Online (Slovenia)"
 
 # Is this a featured talk? (true/false)
 featured = false
