@@ -17,15 +17,15 @@ weight = 20
 
 Lectures:
 
-- [Fundamentals of Data Science - DATA9001, UNSW 2021](https://www.maths.unsw.edu.au/courses/data9001)
-- [Foundations of Data Science - ZZSC9001, UNSW 2020-2021](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZZSC9001)
-- [Applied Regression Analysis - MATH5806, UNSW 2021](https://www.maths.unsw.edu.au/courses/math5806-applied-regression-analysis)
-- [Regression Analysis for Data Scientists - ZZSC5806, UNSW 2021](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZZSC5806)
-- [Introduction to Statistics and Statistical Computations - MATH5856, UNSW, 2019-2020](https://www.maths.unsw.edu.au/courses/math5856-introduction-statistics-and-statistical-computations) 
-- [Statistical Analysis of Dependent Data - MATH3841, UNSW, 2018](http://legacy.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3841.html) 
+- [Fundamentals of Data Science - DATA9001](https://www.maths.unsw.edu.au/courses/data9001) (2021)
+- [Foundations of Data Science - ZZSC9001](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZZSC9001) (2020-2021)
+- [Applied Regression Analysis - MATH5806](https://www.maths.unsw.edu.au/courses/math5806-applied-regression-analysis) (2021)
+- [Regression Analysis for Data Scientists - ZZSC5806](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZZSC5806) (2021)
+- [Introduction to Statistics and Statistical Computations - MATH5856](https://www.maths.unsw.edu.au/courses/math5856-introduction-statistics-and-statistical-computations) (2019-2020) 
+- [Statistical Analysis of Dependent Data - MATH3841](http://legacy.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3841.html) (2018)
 
 Tutorials:
 
-- [Advanced Topics in Statistical Machine Learning, UNSW, 2017](http://legacy.handbook.unsw.edu.au/postgraduate/courses/2017/COMP9418.html) 
-- [Mathematics 1A, Calculus, UNSW, 2017](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1131/?q=MATH1131&ct=all)
-- [Statistics for Life and Social Sciences, UNSW, 2015](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1041/)
+- [Advanced Topics in Statistical Machine Learning](http://legacy.handbook.unsw.edu.au/postgraduate/courses/2017/COMP9418.html) (2017)
+- [Mathematics 1A, Calculus](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1131/?q=MATH1131&ct=all) (2017)
+- [Statistics for Life and Social Sciences](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/MATH1041/) (2015)
