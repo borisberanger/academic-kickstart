@@ -26,5 +26,13 @@ date_format = "Jan 2006"
   date_start = "2018-02-01"
   date_end = ""
   description = "Received $7,600 to setup a collaboration with Alec Stephenson (CSIRO, Data61)"
+  
+[[item]]
+  title = "Research Support Scheme (RSS)"
+  organization = "ARC Centre of Excellence for Mathematical and Statistical Frontiers"
+  certificate_url = ""
+  date_start = "2021-04-01"
+  date_end = ""
+  description = "Project ``Modelling of Environmental and Climate Extremes'' with  [Dr Kate Saunders (QUT)](https://research.qut.edu.au/qutcds/staff/kate-saunders/) and Dr Alec Stephenson (CSIRO, Data61). Ammount awarded: $14,524."  
 
 +++
