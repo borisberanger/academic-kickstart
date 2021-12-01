@@ -17,6 +17,7 @@ weight = 20
 
 Lectures:
 
+- [A modern introduction to Extreme Value Theory](https://ss.amsi.org.au/courses-and-lecturers/modern-intro-extreme-value-theory/) (AMSI Summer School 2022)
 - [Fundamentals of Data Science - DATA9001](https://www.maths.unsw.edu.au/courses/data9001) (2021)
 - [Foundations of Data Science - ZZSC9001](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZZSC9001) (2020-2021)
 - [Applied Regression Analysis - MATH5806](https://www.maths.unsw.edu.au/courses/math5806-applied-regression-analysis) (2021)
