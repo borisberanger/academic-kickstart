@@ -103,4 +103,4 @@ responsibilities = [
 
 +++
 
-Hi! I'm a  Lecturer in Data Science at the [School of Mathematics and Statistics, UNSW Sydney](https://www.maths.unsw.edu.au) and an Associate Investigator in the [ARC Centre of Excellence of Mathematical and Statistical Frontiers (ACEMS)](https://acems.org.au).
+Hi! I'm a  Lecturer in Data Science at the [School of Mathematics and Statistics, UNSW Sydney](https://www.maths.unsw.edu.au) and a member of the [UNSW Data Science Hub (uDASH)](https://www.science.unsw.edu.au/engagement/data-science-hub). I am also an Associate Investigator in the [ARC Centre of Excellence of Mathematical and Statistical Frontiers (ACEMS)](https://acems.org.au).
