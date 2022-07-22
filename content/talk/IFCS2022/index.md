@@ -1,5 +1,5 @@
 +++
-title = "Using symbolic data to understand underlying data behaviour"
+title = "Logistic Regression Models for Aggregated Data"
 date = 2022-07-22T07:00:00  # Schedule page publish date.
 draft = false
 
